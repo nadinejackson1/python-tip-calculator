@@ -1,8 +1,9 @@
-# 100 Days of Machine Learning-Day2: Basic Python Concepts
+### 100 Days of Machine Learning-Day2
+
+# Basic Python Concepts - Simple Tip Calculator 💡🧮
 
 *It's important to note that the challenge I created does not specifically call for the Tip Calculator as a project. Day 2 Challenge is to "Learn basic Python programming concepts, then practice by creating a simple Python script and uploading it to your GitHub repository." I chose to create a calculator as my Day 2 project.*
 
-# Simple Tip Calculator 💡🧮
 
 ### Description 📝
 
